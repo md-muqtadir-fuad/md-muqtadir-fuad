@@ -9,13 +9,18 @@ md-muqtadir-fuad/md-muqtadir-fuad is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 <a href="https://github.com/md-muqtadir-fuad/md-muqtadir-fuad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
---->
-## &#x1f4c8; GitHub Stats
+
+
 
 <a href="https://github.com/md-muqtadir-fuad/md-muqtadir-fuad">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
 </a>
 <a href="https://github.com/md-muqtadir-fuad/md-muqtadir-fuad">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Fuad's GitHub Stats" />
-</a>
+</a>-->
+## &#x1f4c8; GitHub Stats
+<div>
+  <!--<img src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&theme=tokyonight" alt="GitHub stats"/>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top languages"/>
+</div>
 
