@@ -21,6 +21,7 @@ You can click the Preview link to take a look at your changes.
 ## &#x1f4c8; GitHub Stats
 <div>
   <!--<img src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&theme=tokyonight" alt="GitHub stats"/>-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top languages"/>
+  <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top languages"/-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&layout=compact&theme=tokyonight" alt="Top languages"/>
 </div>
 
