@@ -15,9 +15,11 @@
 - 🧮 Optimization modeling
 - 📈 Time-series forecasting
 - 🧰 CAD/CAM & design
+
 ---
 
 ## Tech Stack
+<img align="right" width="420" src="https://github.com/md-muqtadir-fuad/md-muqtadir-fuad/blob/87312a3ca443d5a11c5f875ebdd93744d9c61037/terminal-gif.gif" alt="Terminal animation" />
 
 **Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -51,6 +53,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br clear="right"/>
 
 ---
 
