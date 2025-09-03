@@ -1,11 +1,11 @@
 ## Hey there 👋, I'm [Fuad!](https://github.com/md-muqtadir-fuad/)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-muqtadir-fuad/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/md.muqtadir.fuad)
 [![Google Scholar Badge](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KumeQCkAAAAJ)
 [![ResearchGate Badge](https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Md-Muqtadir-Fuad)
 [![ORCID Badge](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0009-4362-0780)
 [![GrabCAD Badge](https://img.shields.io/badge/-GrabCAD-CC0000?style=flat-square&logo=grabcad&logoColor=white)](https://grabcad.com/md.muaqtadir.fuad-1)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fuad_hehehe)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/md.muqtadir.fuad)
 ### Glad to see you here !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-muqtadir-fuad&label=Profile%20views&color=0e75b6&style=flat" alt="md-muqtadir-fuad" /> 
 <img src="https://img.shields.io/github/followers/md-muqtadir-fuad?style=flat-square&logo=github&logoColor=white" alt="md-muqtadir-fuad" /> </p>
