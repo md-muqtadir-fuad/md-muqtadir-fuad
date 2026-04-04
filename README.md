@@ -69,8 +69,8 @@
 <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&layout=compact&theme=tokyonight" alt="Top languages"/-->
 
 
-### Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=md-muqtadir-fuad&no-bg=true&no-frame=true&margin-w=5)
+<!--### Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=md-muqtadir-fuad&no-bg=true&no-frame=true&margin-w=5)-->
 
 ### Activity graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-muqtadir-fuad&radius=12)
