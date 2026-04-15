@@ -39,6 +39,7 @@
 ![Gurobi](https://img.shields.io/badge/-Gurobi-CC0000?style=flat-square&logo=redhat&logoColor=white)
 ![OR-Tools](https://img.shields.io/badge/-OR--Tools-1A73E8?style=flat-square&logo=google&logoColor=white)
 ![SimPy](https://img.shields.io/badge/-SimPy-0FA958?style=flat-square)
+![ARENA](https://img.shields.io/badge/-ARENA-FFFFFF?style=flat-square)
 
 **Web (MERN)**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -53,6 +54,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CATIA](https://img.shields.io/badge/-CATIA-239DE8?style=flat-square)
+
 
 <br clear="right"/>
 
