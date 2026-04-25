@@ -10,11 +10,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-muqtadir-fuad&label=Profile%20views&color=0e75b6&style=flat" alt="md-muqtadir-fuad" /> 
 <img src="https://img.shields.io/github/followers/md-muqtadir-fuad?style=flat-square&logo=github&logoColor=white" alt="md-muqtadir-fuad" /> </p>
 
-## 👩‍💻 What I do
-- 🤖 AI/ML & Data Analysis
-- 🧮 Optimization modeling
-- 📈 Time-series forecasting
-- 🧰 CAD/CAM & design
+## What I do
+-  AI/ML & Data Analysis
+-  Optimization modeling
+-  Time-series forecasting
+-  CAD/CAM & design
 
 ---
 
@@ -67,10 +67,14 @@
 <!--<img src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&theme=tokyonight" alt="GitHub stats"/>-->
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top languages">-->
   
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)
+<!--![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)-->
+<!--![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)-->
 <!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&layout=compact&theme=tokyonight" alt="Top languages"/-->
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&theme=dracula&hide_border=true&card_width=350&border_radius=5.6" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&theme=dracula&hide=jupyter%20notebook&hide_border=true&border_radius=5.6&langs_count=8&layout=compact&card_width=350" />
+</p>
 
 <!--### Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=md-muqtadir-fuad&no-bg=true&no-frame=true&margin-w=5)-->
