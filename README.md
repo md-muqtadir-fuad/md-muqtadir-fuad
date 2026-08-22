@@ -64,16 +64,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!--<img src="https://github-readme-stats.vercel.app/api?username=md-muqtadir-fuad&show_icons=true&theme=tokyonight" alt="GitHub stats"/>-->
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&hide=jupyter%20notebook&layout=compact&theme=tokyonight" alt="Top languages">-->
-  
-<!--![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)-->
-<!--![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=md-muqtadir-fuad&layout=compact&theme=tokyonight)-->
-<!-- src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-muqtadir-fuad&layout=compact&theme=tokyonight" alt="Top languages"/-->
+<!--[![Fuad's GitHub stats](https://github-stats-extended.vercel.app/api?username=md-muqtadir-fuad)](https://github.com/stats-organization/github-stats-extended)-->
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=md-muqtadir-fuad&langs_count=4&hide=Jupyter+Notebook)
 
-
-<!--### Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=md-muqtadir-fuad&no-bg=true&no-frame=true&margin-w=5)-->
 
 ### Activity graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-muqtadir-fuad&radius=12)
