@@ -68,9 +68,6 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=md-muqtadir-fuad&langs_count=4&hide=Jupyter+Notebook)
 
 
-### Activity graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=md-muqtadir-fuad&radius=12)
-
 
 
 
