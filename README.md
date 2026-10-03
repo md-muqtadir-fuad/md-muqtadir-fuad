@@ -7,8 +7,8 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/fuad_hehehe)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/md.muqtadir.fuad)
 ### Glad to see you here !
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-muqtadir-fuad&label=Profile%20views&color=0e75b6&style=flat" alt="md-muqtadir-fuad" /> 
-<img src="https://img.shields.io/github/followers/md-muqtadir-fuad?style=flat-square&logo=github&logoColor=white" alt="md-muqtadir-fuad" /> </p>
+![](https://komarev.com/ghpvc/?username=md-muqtadir-fuad)
+<img src="https://img.shields.io/github/followers/md-muqtadir-fuad?style=flat-square&logo=github&logoColor=white" alt="md-muqtadir-fuad" />
 
 ## What I do
 -  AI/ML & Data Analysis
