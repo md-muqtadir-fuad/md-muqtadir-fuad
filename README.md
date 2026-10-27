@@ -57,13 +57,7 @@
 
 <br clear="right"/>
 
----
 
-
-## &#x1f4c8; GitHub Stats
-
-<!--[![Fuad's GitHub stats](https://github-stats-extended.vercel.app/api?username=md-muqtadir-fuad)](https://github.com/stats-organization/github-stats-extended)-->
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=md-muqtadir-fuad&langs_count=4&hide=Jupyter+Notebook)
 
 
 
